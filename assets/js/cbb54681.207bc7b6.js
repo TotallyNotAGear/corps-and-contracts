@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcorps_and_contracts_ui=self.webpackChunkcorps_and_contracts_ui||[]).push([[7920],{553:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/corps-and-contracts/blog/tags/docusaurus","allTagsPath":"/corps-and-contracts/blog/tags","count":4}')}}]);
