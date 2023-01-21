@@ -9,14 +9,14 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/corps-and-contracts/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'corps-and-contracts', // Usually your GitHub org/user name.
+  organizationName: 'TotallyNotAGear', // Usually your GitHub org/user name.
   projectName: 'corps-and-contracts', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
