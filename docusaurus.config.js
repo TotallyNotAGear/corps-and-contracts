@@ -9,7 +9,7 @@ const config = {
   title: 'Corps and Contracts',
   tagline: 'Corps and Contracts',
   url: 'https://corps-and-contracts.github.io/',
-  baseUrl: '/wiki/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -41,14 +41,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/corps-and-contracts/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/corps-and-contracts/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/TotallyNotAGear/corps-and-contracts',
+            href: 'https://github.com/corps-and-contracts/',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/corps-and-contracts/wiki',
+                href: 'https://github.com/corps-and-contracts/',
               },
             ],
           },

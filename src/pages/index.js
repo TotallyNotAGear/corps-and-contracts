@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Corps and Contracts Wiki
+            Corps and Contracts Wiki (WORK IN PROGRESS)
           </Link>
         </div>
       </div>
