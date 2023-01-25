@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcorps_and_contracts_ui=self.webpackChunkcorps_and_contracts_ui||[]).push([[4880],{4433:o=>{o.exports=JSON.parse('{"permalink":"/wiki/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
