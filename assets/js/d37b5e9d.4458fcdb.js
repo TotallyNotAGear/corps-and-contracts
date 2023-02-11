@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcorps_and_contracts_ui=self.webpackChunkcorps_and_contracts_ui||[]).push([[6833],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

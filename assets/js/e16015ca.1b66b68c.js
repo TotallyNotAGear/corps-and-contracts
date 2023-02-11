@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcorps_and_contracts_ui=self.webpackChunkcorps_and_contracts_ui||[]).push([[9700],{5688:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
