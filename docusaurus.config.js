@@ -15,7 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
 
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+  plugins: [
+    require.resolve("@cmfcmf/docusaurus-search-local"), 
+    require.resolve("docusaurus-plugin-google-adsense")
+    ],
 
 
   // GitHub pages deployment config.
@@ -58,8 +61,11 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */    
+    ({      
+      googleAdsense: {
+        dataAdClient: 'ca-pub-3216238517371517',
+      },
       navbar: {
         title: 'Corps And Contracts',        
         items: [
